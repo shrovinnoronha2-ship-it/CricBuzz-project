@@ -1,0 +1,20 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "Rank",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Name",
+      "type": "STRING"
+    },
+    {
+      "name": "Country",
+      "type": "STRING"
+    },
+    {
+      "name": "processed_timestamp",
+      "type": "TIMESTAMP"
+    }
+  ]
+}
