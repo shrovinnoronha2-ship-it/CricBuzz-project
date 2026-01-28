@@ -46,3 +46,15 @@ This project demonstrates how GCP's integrated services can be leveraged to buil
 -**Centralized Storage**: Processed data is stored in BigQuery, Google's cloud data warehouse, making it easily accessible for querying and analysis.
 
 -**Visualization**: Interactive dashboards in Looker Studio display player rankings, performance trends, and statistical insights through charts, graphs, and tables.
+
+## Visualization (Looker studio)
+The processed cricket ranking data was visualized using Looker Studio to create an interactive and user-friendly dashboard. The dashboard highlights ICC ODI batsmen rankings with clear tabular views and country-wise insights, enabling easy exploration and comparison of player performance. This visualization layer enhances data accessibility and demonstrates the end-to-end pipeline from API extraction and cloud processing to analytics-ready reporting.
+
+<img width="984" height="525" alt="newplot" src="https://github.com/user-attachments/assets/4e0c7695-8994-4618-8979-c192b2b10564" />
+
+<img width="984" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/46225cee-03a8-46e8-9c6a-d6f36c5a9c5d" />
+
+<img width="984" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/730e2a10-79fd-43ab-bd7c-b184202b430e" />
+
+
+
